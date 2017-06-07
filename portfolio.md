@@ -40,6 +40,8 @@ Daichi's Portfolio
 Social Acount
 ------------
 * [Twitter](https://twitter.com/dumamichi)
+* [Github](https://github.com/daichiumamichi)
+
      		
   
 
