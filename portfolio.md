@@ -36,6 +36,10 @@ Daichi's Portfolio
  > 80%
 * Github
  > 70%
+
+Social Acount
+------------
+* [Twitter](https://twitter.com/dumamichi)
      		
   
 
