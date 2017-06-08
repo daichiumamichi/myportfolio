@@ -45,7 +45,7 @@ Social Acount
  > 60%　
 * [Ruby on Rails](https://github.com/daichiumamichi/forple)
  > 60%
-* HTML/CSS
+* [HTML/CSS](https://github.com/daichiumamichi/daichiportfolio)
  > 70%
 * PHP
  > 40%
