@@ -48,7 +48,7 @@ Social Acount
 * [HTML/CSS](https://github.com/daichiumamichi/daichiportfolio)
  > 70%
 * PHP
- > 40%
+ > 70%
 * Git
  > 80%
 * Github
